@@ -1,0 +1,20 @@
+{
+  "name": "@vue3-demo-webpack-esm-esm/remote",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite --port 5000 --strictPort",
+    "serve": "vite preview --port 5000 --strictPort",
+    "build": "vite build",
+    "clean": "rm -rf dist"
+  },
+  "dependencies": {
+    "vue": "^3.2.37",
+    "pinia": "^2.0.21"
+  },
+  "devDependencies": {
+    "@originjs/vite-plugin-federation": "1.1.12",
+    "@vitejs/plugin-vue": "^3.0.1",
+    "vite": "^3.0.7"
+  }
+}

@@ -1,0 +1,19 @@
+
+._green_8qe8x_2 {
+  color: green;
+}
+._bold_8qe8x_6 {
+  font-weight: bold;
+}
+
+img[data-v-dcaef60d] {
+  width: 200px;
+}
+.h1[data-v-dcaef60d] {
+  border: 5px solid red !important;
+  padding: 1px !important;
+}
+.section[data-v-dcaef60d] {
+  border: 1px solid black;
+  padding: 10px;
+}
